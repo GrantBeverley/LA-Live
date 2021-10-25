@@ -42,7 +42,8 @@ h7 {
 }
 
 p {
-  font-size: 1.25rem;
+/*  font-size: 1.25rem; */
+  font-size: 22px;
   margin-bottom: 0px;
   color: white;
 }
