@@ -109,6 +109,7 @@ ul {
 font-size: 20px;
 }
 
+
 .light-section {
   background-color: #0047AB;
   background-image: url(../images/analysis2.jpg);
@@ -268,12 +269,17 @@ font-size: 20px;
 }
 
 .carousel-item, .iconPoint {
+
+  color: white;
+/*
   color: #B4dc7f;
+*/
   font-size: 20px;
 }
 
 .twitter-timeline {
   text-align: center;
+  margin: auto;
 }
 
 .container {
